@@ -14,7 +14,8 @@ Description:
 	Written in C++, with OpenGL. 
 
 Compilation:
-	Use cmake to compile with the libraries included in the libraries folder.	
+	Use cmake to compile with the external libraries included in the libraries folder. Glm not included in libraries folder and is required. 
+	All libraries are external libraries written and provided by others. 
 		
 
 Controls:
