@@ -1,0 +1,4 @@
+Source:
+https://opengameart.org/content/spaceship-1
+License:
+GPL 3.0
