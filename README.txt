@@ -1,9 +1,11 @@
 !!Original Copy found here - "https://github.com/dawsonkelly/GroupProj" !!
 
 Authors: 
-	Connor McDougall 101179300
-	Dawson Kelly 101184804
-	Kevin B 101184184
+	Connor McDougall 
+	Dawson Kelly 
+		https://github.com/dawsonkelly
+	Kevin B 
+		https://github.com/kev-b28
 
 Project: Year 2 Shmup Project 
 
