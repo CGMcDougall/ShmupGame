@@ -8,7 +8,9 @@ Authors:
 Project: Year 2 Shmup Project 
 
 Description: 
-	This game is a shoot 'em up in which you kill as many minibosses as possible before the final boss spawns when the timer hits zero. Killing minibosses will reduce the final bosses health, but getting hit will reduce your timer significantly. Kill the final boss to win, but if you take any damage when the timer is at zero, you will lose. 
+	This game is a shoot 'em up in which you kill as many minibosses as possible before the final boss spawns when the timer hits zero.
+	Killing minibosses will reduce the final bosses health, but getting hit will reduce your timer significantly. 
+	Kill the final boss to win, but if you take any damage when the timer is at zero, you will lose. 
 	Written in C++, with OpenGL. 
 
 Compilation:
